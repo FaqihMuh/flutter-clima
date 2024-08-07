@@ -3,7 +3,7 @@ import 'dart:ffi';
 import '../services/location.dart';
 import 'package:clima/services/networking.dart';
 
-const apiKey = 'f494f08b3a99397b05ccd361deae05c7';
+const apiKey = 'your apiKey';
 const website = 'api.openweathermap.org';
 const webPath = '/data/2.5/weather';
 
